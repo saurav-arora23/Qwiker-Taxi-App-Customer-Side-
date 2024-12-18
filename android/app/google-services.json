@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175048736544",
+    "project_id": "qwiker-customer-app-a8927",
+    "storage_bucket": "qwiker-customer-app-a8927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175048736544:android:730c986a13f40a88b26145",
+        "android_client_info": {
+          "package_name": "com.example.qwiker_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175048736544-ep62m20d4n735lcknaft1o8te0n6lhnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qwiker_customer_app",
+            "certificate_hash": "a7c138c7da3fc7532fbda734d524f805b22778cd"
+          }
+        },
+        {
+          "client_id": "175048736544-tiub6fcjhihue7n2hh1al4rov4etf2hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBagFDeTprXEpIrISPudKzrSenaUw9OPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175048736544-tiub6fcjhihue7n2hh1al4rov4etf2hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
